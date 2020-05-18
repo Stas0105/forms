@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+#Modal {
+  min-height: 400px;
+  width: 30%;
+  background-color: blueviolet;
+  margin-left: 35%;
+  margin-top: 100px;
+}
+#RegistForm {
+  padding-top: 10%;
+  margin-left: 15%;
+  width: 70%;
+  height: 320px;
+  background-color: white;
+  border-radius: 2%;
+}
+.firstinput {
+  height: 30px;
+  background-color: lightblue;
+  border: none;
+  width: 80%;
+}
+.firstbtn {
+  width: 80%;
+  height: 30px;
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+}
+.checkbox {
+  color: blue;
+}
